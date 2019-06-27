@@ -1,5 +1,5 @@
 leap=int(input())
 if leap%4==0:
- print("Yes")
+ print("yes")
 else: 
-  print("No")
+  print("no")
